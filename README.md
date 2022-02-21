@@ -8,7 +8,7 @@
   <br />
   </a>
 </p>
-
+<!-- TAS CHECK -->
 [![npm version](https://badge.fury.io/js/xstate.svg)](https://badge.fury.io/js/xstate)
 <img src="https://opencollective.com/xstate/tiers/backer/badge.svg?label=sponsors&color=brightgreen" />
 
