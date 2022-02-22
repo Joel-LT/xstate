@@ -44,7 +44,7 @@ configFile: jest.config.js
 nodeVersion: 16.13.1
 
 # configure whether to smartSelect test-cases. Default true
-smartRun: false
+smartRun: true
 
 # supported tiers: xsmall|small|medium|large|xlarge
 # tier: small
